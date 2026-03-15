@@ -20,7 +20,7 @@ This project combines advanced AI language models with an easy-to-use UI and bac
 
 ## 🎯 Example Usage.
 1. Define your system prompt (e.g., "Act as a helpful data science assistant").
-2. Choose the model provider (GROQ or OPENAI).
+2. Choose the model provider (GROQ or OpenAI).
 3. Select the specific model.
 4. Optionally enable web search 🌐.
 5. Enter your query 🤔.
